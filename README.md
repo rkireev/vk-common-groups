@@ -11,4 +11,4 @@ This function solve the simple task of deciding what else have in common the mem
 For example, if we consider a public with data science topics, then we check if in the top n there are other publics with the same topic.
 Kind of hypotheses checking.
 
-Example of its work can be found in jupyter notebook file.
+Example of its work can be found in the jupyter notebook file.
